@@ -4,8 +4,8 @@ Plugin for LXC containers control on remote servers
 
 ## Description
 
-This version based on [chifflier/ansible-lxc-ssh](/chifflier/ansible-lxc-ssh) idea.
-Insead copy this version just extends standart conntection/ssh module.
+This version based on [chifflier/ansible-lxc-ssh](/chifflier/ansible-lxc-ssh) idea.     
+Insead copy this version just extends standart conntection/ssh module.     
 Worked on Ansible 2.4
 
 ## Configuration
